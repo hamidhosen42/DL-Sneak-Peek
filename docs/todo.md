@@ -1,0 +1,12 @@
+- [ ] Mixed precession
+- [ ] Embedeings in NLP
+- [ ] Text classification
+- [ ] Text classification using pretrain model
+- [ ] Bangla Sentiment analysis
+- [x] Define network using subclass in keras
+- [ ] Flower photos classification using transfer learnign
+- [ ] Implement speech command using tensorflow 2x
+- [ ] https://github.com/abhishekkrthakur/bert-entity-extraction
+- [ ] https://github.com/keras-team/keras-tuner
+- [ ] https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+- [ ] https://www.tensorflow.org/tutorials/keras/keras_tuner
