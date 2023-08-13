@@ -8,3 +8,8 @@
 >>> clf.fit(X, y)
 Pipeline(steps=[('standardscaler', StandardScaler()),
                 ('svc', SVC(gamma='auto'))])
+>>> from sklearn.svm import SVC
+>>> clf = make_pipeline(StandardScaler(), SVC(gamma='auto'))
+>>> clf.fit(X, y)
+Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('svc', SVC(gamma='auto'))])
